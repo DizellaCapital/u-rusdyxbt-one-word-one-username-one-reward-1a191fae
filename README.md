@@ -12,6 +12,8 @@ Entry for the make.fun bounty `u-rusdyxbt-one-word-one-username-one-reward-1a191
 
 14 characters, one word: our own make.fun handle, @dizellacapital. A coined handle — Dizella + capital — that sticks in the mind and sounds like a name its owner is happy to wear.
 
+Why this entry wins its ties: the username is fixed by the bounty (it must be our own handle), so the levers left are size and speed — 14 bytes is already minimal, and this entry is submitted at the earliest chance, so on any exact tie on win rate it places above later receipts.
+
 ## Run it
 
 ```sh
